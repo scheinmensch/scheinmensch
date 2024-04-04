@@ -7,3 +7,5 @@ I will post here some exciting projects I am working on.
 Thank you for your interest in my profile!
 
 Johanna
+
+View my portfolio in a more decent design [here](https://scheinmensch.github.io/).
