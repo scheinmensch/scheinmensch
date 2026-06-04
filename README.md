@@ -1,8 +1,10 @@
 ### Hello World 👋
 
-In May 2023, I successfully completed a coding bootcamp with a focus on data at neuefische. I have lost my heart to Data Science.
+In May 2023, I successfully completed a coding bootcamp with a focus on data analytics and machine learning at neuefische. .
 
-I will post here some exciting projects I am working on.
+Here you can find some projects I've been working on.
+
+While my professional focus has increasingly shifted towards data engineering, data modelling, and business intelligence, I hope to find some time for new data science projects soon again. 
 
 Thank you for your interest in my profile!
 
